@@ -1,3 +1,3 @@
-# final_project
+2 - Player Fighting Game 
 
-Lab8.rar = After PS_2 
+Implemented a 2 player fighting game on an FPGA coding in System Verilog for Digital Systems Lab.
